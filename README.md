@@ -7,3 +7,5 @@ Afegeixo mes coses
 # Modificacion del clon
 
 Hola soc el clon
+
+# Hola persona
