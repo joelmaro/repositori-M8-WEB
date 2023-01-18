@@ -4,6 +4,6 @@ Pagina web Joel Martinez G1
 
 Afegeixo mes coses
 
-#Modificacion del clon
+# Modificacion del clon
 
 Hola soc el clon
