@@ -8,4 +8,3 @@ Afegeixo mes coses
 
 Hola soc el clon
 
-# Hola clon
